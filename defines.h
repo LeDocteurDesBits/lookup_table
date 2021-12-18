@@ -1,0 +1,8 @@
+#ifndef DEFINES_H
+#define DEFINES_H
+
+#define MAX_LINE_SIZE 4096
+#define PROGRESS_UPDATE_COUNT 1000000
+#define MIB (1024 * 1024)
+
+#endif //DEFINES_H
